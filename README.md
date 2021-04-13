@@ -1,2 +1,2 @@
 # navbardemo_django
-Django static project
+Django static project using navigation bar
